@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 
 
-df = pd.read_csv('https://raw.githubusercontent.com/idivalsolorzano/mapa_cohorte_cantabria/main/prueba_sexo.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/adacp/prueba_wordpress/main/prueba_sexo.csv')
 
 app = Dash(__name__)
 
